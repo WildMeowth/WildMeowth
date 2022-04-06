@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hello! I'm WildMeowth.</h3>
+<h3 align="left">👋 Hello! I'm WildMeowth.</h3>
 
 <p align="left">
   <a href="https://wildmeowth.github.io">Blog</a> •
